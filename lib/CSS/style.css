@@ -1,0 +1,19 @@
+.grid_container{
+    display: grid;
+
+
+}
+
+.gridBox{
+    display: grid;
+    background: rgb(140, 140, 185);
+    border: 2px solid blue;
+
+    width: 10vh;
+    height: 10vh;
+
+    grid-column-start: 1;
+    grid-column-end: 10;
+
+
+}
